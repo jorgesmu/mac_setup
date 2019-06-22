@@ -1,7 +1,7 @@
 # Mac setup
 
 ## What is Mac setup?
-Mac setup is a script for easy setup with my personal preferences on a new mac computer.
+Mac setup is a script for easy setup of a mac computer with my personal preferences.
 
 If my computer breaks and I need to get a new one, I just want to run the script and get everything installed while I have a coffee.
 
