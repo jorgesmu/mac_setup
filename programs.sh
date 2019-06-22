@@ -20,5 +20,3 @@ brew cask install pgadmin4
 brew install mongodb
 brew install redis
 brew cask install libreoffice
-brew cask install 
-brew cask install 
