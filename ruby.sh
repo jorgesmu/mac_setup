@@ -7,3 +7,4 @@ echo 'source /Users/jorge/.rvm/scripts/rvm' >> ~/.bash_profile
 
 rvm install $RUBY_VERSION
 echo "rvm use $RUBY_VERSION" >> ~/.bash_profile
+source ~/.bash_profile
