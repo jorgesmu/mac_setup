@@ -1,3 +1,6 @@
+# Sublime
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" 
+
 echo '# Aliases' >> ~/.bash_profile
 echo >> ~/.bash_profile
 
