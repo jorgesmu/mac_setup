@@ -16,9 +16,10 @@ echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nf
 echo >> ~/.bash_profile
 source ~/.bash_profile
 
-Virtual env
+# Virtual env
 pip install --upgrade pip
 pip install virtualenv
+
 # Virtualenvwrapper
 pip install virtualenvwrapper
 
