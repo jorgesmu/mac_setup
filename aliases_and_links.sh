@@ -15,4 +15,9 @@ echo '#-> Venvwrapper' >> ~/.bash_profile
 echo 'alias create_venvw="mkvirtualenv"' >> ~/.bash_profile
 echo >> ~/.bash_profile
 
+# Others
+echo '#-> Others' >> ~/.bash_profile
+echo 'alias ll="ls -l"' >> ~/.bash_profile
+echo >> ~/.bash_profile
+
 source ~/.bash_profile
