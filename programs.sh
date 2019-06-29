@@ -24,3 +24,5 @@ brew cask install google-backup-and-sync
 brew cask install flycut
 brew cask install flux
 brew cask install spectacle
+brew install htop
+brew install tree
