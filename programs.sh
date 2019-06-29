@@ -13,10 +13,15 @@ brew cask install docker
 brew cask install intellij-idea
 brew cask install sourcetree
 brew cask install postman
-brew cask install teamviewer	
+brew cask install teamviewer
 brew cask install evernote
 brew install postgresql
 brew cask install pgadmin4
 brew install mongodb
 brew install redis
 brew cask install libreoffice
+brew cask install google-backup-and-sync
+brew cask install flycut
+brew cask install bartender
+brew cask install flux
+brew cask install spectacle
