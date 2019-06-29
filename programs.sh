@@ -22,6 +22,5 @@ brew install redis
 brew cask install libreoffice
 brew cask install google-backup-and-sync
 brew cask install flycut
-brew cask install bartender
 brew cask install flux
 brew cask install spectacle
