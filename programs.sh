@@ -26,3 +26,4 @@ brew cask install flux
 brew cask install spectacle
 brew install htop
 brew install tree
+brew cask install mactex
